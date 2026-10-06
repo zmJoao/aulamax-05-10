@@ -11,7 +11,7 @@ cred = credentials.Certificate(
 firebase_admin.initialize_app(
     cred,
     {
-        "databaseURL": "https://aulamax0510-default-rtdb.firebaseio.com"
+        "databaseURL": "firebase aqui"
     }
 )
 
